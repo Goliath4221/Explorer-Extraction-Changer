@@ -14,3 +14,5 @@ Have a supported app installed.
 Thats it.
 
 ### This was mainly tested on 7-Zip, so there is no guarantee that other software will work perfectly. If it doesn't let me know and I will try to deploy a fix.
+
+If you want to contact me, you can through my [Discord](https://discord.com/users/1032398453831110757).
